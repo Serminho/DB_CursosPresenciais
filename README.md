@@ -1,4 +1,4 @@
-# 🎓 Sistema de Cursos Presenciais — Banco de Dados
+# 🎓 Sistema de Cursos Presenciais - Banco de Dados
 
 Projeto acadêmico desenvolvido para a disciplina de Banco de Dados, com foco na modelagem, implementação e manipulação de um sistema de gerenciamento para cursos presenciais.
 
